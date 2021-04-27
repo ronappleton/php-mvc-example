@@ -24,3 +24,10 @@ There are currently no models in this example framework yet, however it does hav
  ```
 
 From your project base directory will run the framework. You can then open your browser and head to http://localhost:8080 to use.
+
+
+Note: This is not a how to, it is not an example of how it should be done, it is simply an example of how it can be done, no priciples have been followed, no discoveries made and in no way should you build a site with this and release it on the internet. I simply wanted to provide an example on the internet that is not using switch cases and query parameters for routing, and how we can acheive pretty urls without rewriting (you should use rewriting).
+
+Credits:
+https://selvinortiz.com/blog/traversing-arrays-using-dot-notation for the dot notation access of super globals in the Input helper. Its been done so many times,
+it was pointless me writing it.
