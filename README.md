@@ -23,4 +23,4 @@ There are currently no models in this example framework yet, however it does hav
  php -S localhost:8080 public/index.php
  ```
 
-From you project base directory will run the framework.
+From your project base directory will run the framework. You can then open your browser and head to http://localhost:8080 to use.
